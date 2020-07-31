@@ -1,4 +1,3 @@
 module.exports = {
-  API_URL: 'http://localhost:8000/',
-  // API_URL: 'https://polar-journey-00942.herokuapp.com/',
+  API_URL: 'https://morning-springs-13337.herokuapp.com/',
 };
